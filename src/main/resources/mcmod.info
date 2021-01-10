@@ -1,0 +1,15 @@
+[
+{
+  "modid": "randomblockdrops",
+  "name": "Random Block Drops",
+  "description": "Randomizes block drops.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tfarecmin"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
