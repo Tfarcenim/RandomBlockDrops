@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "tfar.randomblockdrops.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "randomblockdrops.refmap.json",
+  "mixins": [
+    "AbstractBlockStateMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}
